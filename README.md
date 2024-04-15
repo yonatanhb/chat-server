@@ -17,11 +17,7 @@ This is a simple chat server implemented in C using socket programming. It allow
     git clone https://github.com/yonatanhb/chat-server.git
     ```
 
-2. Navigate to the project directory:
-
-    ```bash
-    cd simple-chat-server
-    ```
+2. Navigate to the project directory.
 
 3. Compile the server program using your preferred C compiler. For example, using `gcc`:
 
